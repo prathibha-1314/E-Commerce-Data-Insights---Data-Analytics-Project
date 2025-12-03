@@ -1,0 +1,301 @@
+review_id,user_id,product_id,rating,review_text
+1,104,28,3.6,Good
+2,18,61,1.5,Average
+3,30,46,2.3,Good
+4,20,32,3.9,Loved it
+5,88,67,3.4,Excellent
+6,95,45,3.4,Loved it
+7,45,53,2.3,Loved it
+8,125,37,3.6,Average
+9,11,100,3.0,Excellent
+10,68,34,4.0,Excellent
+11,28,83,4.7,Good
+12,181,30,2.6,Average
+13,74,47,2.7,Good
+14,178,96,1.9,Excellent
+15,69,28,1.2,Excellent
+16,180,83,1.6,Excellent
+17,86,9,2.0,Loved it
+18,53,8,1.4,Good
+19,182,4,2.9,Average
+20,7,62,4.1,Could be better
+21,5,96,4.9,Excellent
+22,12,39,3.0,Good
+23,85,69,4.8,Average
+24,151,58,1.4,Good
+25,121,1,2.3,Excellent
+26,145,49,3.5,Excellent
+27,191,18,2.4,Average
+28,121,4,2.4,Excellent
+29,196,57,2.4,Average
+30,162,78,3.9,Not great
+31,189,19,4.6,Not great
+32,169,10,1.5,Average
+33,73,6,1.6,Could be better
+34,119,89,4.4,Loved it
+35,148,68,3.1,Loved it
+36,115,91,1.9,Loved it
+37,194,46,2.8,Good
+38,122,94,2.6,Could be better
+39,38,92,4.7,Not great
+40,46,64,3.8,Not great
+41,167,48,4.4,Excellent
+42,128,84,4.6,Average
+43,181,22,1.7,Not great
+44,95,74,3.9,Good
+45,166,63,4.0,Could be better
+46,146,93,3.1,Loved it
+47,192,28,3.5,Average
+48,26,10,4.3,Good
+49,97,31,4.2,Could be better
+50,27,92,1.2,Not great
+51,192,79,4.5,Excellent
+52,111,5,4.5,Excellent
+53,46,46,2.4,Not great
+54,134,82,4.4,Average
+55,154,73,4.4,Loved it
+56,41,62,3.6,Loved it
+57,65,77,4.9,Excellent
+58,90,69,2.2,Could be better
+59,22,19,4.4,Good
+60,89,59,1.4,Average
+61,112,2,2.1,Average
+62,78,40,4.7,Excellent
+63,54,92,2.5,Average
+64,90,34,2.6,Good
+65,76,70,3.4,Could be better
+66,197,80,3.5,Could be better
+67,5,79,4.4,Good
+68,129,93,4.4,Loved it
+69,14,93,4.2,Could be better
+70,67,70,5.0,Average
+71,67,1,1.5,Excellent
+72,28,35,4.1,Could be better
+73,30,100,2.3,Not great
+74,87,63,1.2,Average
+75,179,19,3.7,Excellent
+76,115,20,2.4,Not great
+77,187,10,1.3,Excellent
+78,89,39,4.5,Not great
+79,54,90,4.6,Excellent
+80,31,54,4.2,Not great
+81,60,76,2.2,Could be better
+82,76,40,4.3,Could be better
+83,191,98,3.1,Excellent
+84,83,36,2.9,Good
+85,144,60,3.1,Could be better
+86,69,61,1.8,Average
+87,86,74,2.2,Loved it
+88,12,65,3.1,Good
+89,181,31,3.1,Could be better
+90,37,23,2.2,Good
+91,93,23,3.4,Loved it
+92,136,58,3.3,Loved it
+93,147,65,1.7,Average
+94,162,94,3.8,Average
+95,27,62,3.4,Average
+96,25,61,4.1,Loved it
+97,108,52,2.4,Excellent
+98,82,89,1.6,Excellent
+99,24,21,3.9,Loved it
+100,102,100,1.0,Excellent
+101,17,75,4.3,Loved it
+102,69,32,3.7,Loved it
+103,128,34,2.7,Could be better
+104,105,37,3.0,Average
+105,100,53,5.0,Average
+106,22,53,2.2,Excellent
+107,200,58,2.2,Not great
+108,101,76,3.2,Average
+109,159,17,3.0,Loved it
+110,43,76,3.9,Not great
+111,185,43,2.8,Average
+112,154,21,4.2,Not great
+113,29,2,4.6,Not great
+114,126,20,4.5,Loved it
+115,121,80,1.3,Average
+116,151,61,2.5,Good
+117,41,26,4.1,Excellent
+118,144,17,3.5,Loved it
+119,68,76,1.8,Could be better
+120,82,76,1.7,Average
+121,142,82,4.5,Good
+122,43,62,2.2,Could be better
+123,137,84,3.4,Good
+124,8,80,3.0,Not great
+125,120,72,3.3,Not great
+126,185,94,2.7,Excellent
+127,147,53,1.2,Average
+128,194,13,2.8,Excellent
+129,138,61,3.6,Average
+130,18,19,2.6,Good
+131,139,78,1.0,Average
+132,153,2,4.1,Not great
+133,68,54,4.8,Average
+134,175,91,3.1,Could be better
+135,89,89,2.0,Excellent
+136,12,91,4.8,Excellent
+137,158,11,4.7,Not great
+138,160,16,3.2,Excellent
+139,109,9,4.3,Excellent
+140,200,99,1.9,Loved it
+141,86,6,1.9,Average
+142,139,85,3.3,Not great
+143,130,53,3.3,Average
+144,165,10,2.3,Excellent
+145,110,97,2.7,Excellent
+146,66,46,1.9,Not great
+147,5,12,3.6,Good
+148,86,75,1.3,Excellent
+149,85,38,1.1,Good
+150,111,95,2.0,Loved it
+151,105,1,1.4,Excellent
+152,104,13,3.7,Not great
+153,160,69,4.0,Average
+154,177,11,1.3,Average
+155,73,36,3.2,Could be better
+156,39,21,2.1,Good
+157,129,65,1.4,Average
+158,3,40,2.8,Excellent
+159,188,15,4.9,Not great
+160,137,65,3.9,Not great
+161,17,60,3.2,Good
+162,41,82,3.5,Excellent
+163,176,23,4.3,Could be better
+164,140,64,4.6,Not great
+165,77,62,2.0,Could be better
+166,176,18,3.3,Good
+167,134,16,3.2,Average
+168,76,80,4.0,Could be better
+169,198,18,4.1,Could be better
+170,57,81,1.1,Loved it
+171,162,59,1.8,Excellent
+172,135,28,4.5,Average
+173,28,2,4.2,Good
+174,153,80,1.8,Not great
+175,12,63,3.6,Loved it
+176,188,42,1.4,Could be better
+177,124,18,1.7,Excellent
+178,160,58,2.6,Excellent
+179,54,47,2.9,Average
+180,63,26,3.4,Not great
+181,160,65,2.5,Excellent
+182,90,85,4.8,Good
+183,93,67,5.0,Good
+184,84,43,3.9,Average
+185,76,96,2.8,Not great
+186,99,85,2.8,Good
+187,60,61,4.7,Could be better
+188,127,86,2.7,Excellent
+189,164,87,1.5,Could be better
+190,66,80,1.0,Not great
+191,115,54,1.4,Excellent
+192,118,12,3.3,Could be better
+193,55,41,1.5,Excellent
+194,124,73,1.2,Could be better
+195,125,90,4.9,Loved it
+196,152,2,4.0,Not great
+197,153,62,1.0,Not great
+198,41,34,3.8,Average
+199,84,87,3.9,Loved it
+200,84,1,2.7,Could be better
+201,52,17,4.2,Loved it
+202,103,42,4.9,Not great
+203,119,77,1.5,Good
+204,69,75,3.4,Good
+205,142,12,3.8,Could be better
+206,70,75,3.8,Loved it
+207,192,59,1.6,Not great
+208,169,89,4.7,Not great
+209,113,9,4.9,Average
+210,37,13,3.9,Not great
+211,175,40,3.9,Loved it
+212,44,66,1.8,Good
+213,8,23,1.6,Good
+214,109,80,1.7,Not great
+215,94,7,3.9,Could be better
+216,3,89,4.1,Excellent
+217,24,26,1.8,Good
+218,173,37,4.8,Could be better
+219,169,14,2.7,Could be better
+220,191,91,3.9,Average
+221,31,70,1.5,Excellent
+222,6,86,1.3,Excellent
+223,98,42,2.9,Good
+224,45,63,2.7,Good
+225,98,22,2.6,Good
+226,69,23,4.1,Not great
+227,26,10,2.0,Average
+228,39,3,2.2,Could be better
+229,190,7,1.5,Excellent
+230,57,46,3.7,Loved it
+231,188,12,3.5,Average
+232,70,7,1.4,Could be better
+233,170,74,4.2,Could be better
+234,52,96,4.8,Loved it
+235,26,21,5.0,Average
+236,99,52,4.7,Loved it
+237,28,30,3.4,Excellent
+238,197,66,3.7,Could be better
+239,69,100,3.1,Average
+240,60,49,2.9,Loved it
+241,112,11,2.8,Not great
+242,12,52,1.2,Good
+243,111,28,2.9,Could be better
+244,97,28,5.0,Could be better
+245,159,61,4.8,Loved it
+246,103,84,1.1,Excellent
+247,78,44,1.0,Average
+248,52,41,1.1,Average
+249,83,39,1.5,Could be better
+250,144,55,4.3,Loved it
+251,170,69,1.3,Excellent
+252,8,33,4.6,Could be better
+253,76,91,2.6,Good
+254,108,6,2.6,Average
+255,64,48,4.3,Excellent
+256,168,5,3.7,Not great
+257,194,93,3.9,Average
+258,90,90,3.5,Excellent
+259,13,14,4.8,Could be better
+260,36,94,1.5,Excellent
+261,90,90,1.7,Could be better
+262,44,51,4.0,Average
+263,169,96,2.6,Loved it
+264,149,23,2.3,Not great
+265,166,46,3.2,Average
+266,192,98,4.5,Loved it
+267,171,84,4.3,Not great
+268,121,64,4.7,Loved it
+269,117,80,4.7,Not great
+270,93,36,3.9,Not great
+271,57,23,4.6,Good
+272,73,98,4.1,Not great
+273,148,33,4.1,Average
+274,151,36,4.0,Good
+275,75,12,4.9,Good
+276,15,54,3.7,Average
+277,152,56,1.1,Good
+278,137,78,3.3,Average
+279,60,50,3.2,Loved it
+280,92,66,3.3,Could be better
+281,118,82,1.8,Loved it
+282,90,28,2.3,Could be better
+283,38,84,3.7,Average
+284,142,53,4.5,Average
+285,183,66,3.2,Average
+286,124,70,3.8,Average
+287,176,39,2.4,Not great
+288,152,1,2.9,Not great
+289,37,100,1.1,Excellent
+290,54,58,3.6,Excellent
+291,132,51,3.0,Good
+292,14,96,2.1,Excellent
+293,17,40,4.4,Good
+294,35,33,2.3,Good
+295,176,9,3.3,Not great
+296,173,90,4.8,Could be better
+297,127,16,2.7,Could be better
+298,72,16,1.1,Average
+299,124,89,4.3,Loved it
+300,81,44,3.7,Not great
